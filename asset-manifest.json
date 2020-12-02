@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/recomovie/static/js/main.29b17093.chunk.js",
-    "main.js.map": "/recomovie/static/js/main.29b17093.chunk.js.map",
+    "main.js": "/recomovie/static/js/main.bcaf6e4e.chunk.js",
+    "main.js.map": "/recomovie/static/js/main.bcaf6e4e.chunk.js.map",
     "runtime-main.js": "/recomovie/static/js/runtime-main.99efff86.js",
     "runtime-main.js.map": "/recomovie/static/js/runtime-main.99efff86.js.map",
-    "static/js/2.95b44bd3.chunk.js": "/recomovie/static/js/2.95b44bd3.chunk.js",
-    "static/js/2.95b44bd3.chunk.js.map": "/recomovie/static/js/2.95b44bd3.chunk.js.map",
+    "static/js/2.25b3e910.chunk.js": "/recomovie/static/js/2.25b3e910.chunk.js",
+    "static/js/2.25b3e910.chunk.js.map": "/recomovie/static/js/2.25b3e910.chunk.js.map",
     "index.html": "/recomovie/index.html",
-    "precache-manifest.9bf96ab10525bcd68ea111cb50d49920.js": "/recomovie/precache-manifest.9bf96ab10525bcd68ea111cb50d49920.js",
+    "precache-manifest.6ff6cb527e387b5c2ec95ae05ba18699.js": "/recomovie/precache-manifest.6ff6cb527e387b5c2ec95ae05ba18699.js",
     "service-worker.js": "/recomovie/service-worker.js",
-    "static/js/2.95b44bd3.chunk.js.LICENSE.txt": "/recomovie/static/js/2.95b44bd3.chunk.js.LICENSE.txt"
+    "static/js/2.25b3e910.chunk.js.LICENSE.txt": "/recomovie/static/js/2.25b3e910.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.99efff86.js",
-    "static/js/2.95b44bd3.chunk.js",
-    "static/js/main.29b17093.chunk.js"
+    "static/js/2.25b3e910.chunk.js",
+    "static/js/main.bcaf6e4e.chunk.js"
   ]
 }
